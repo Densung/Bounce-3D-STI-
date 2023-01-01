@@ -15,7 +15,7 @@ D:/Bounce-3D-STI-/Bounce 3D STI
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-58251
+55730
 Successfully changed project path to: D:/Bounce-3D-STI-/Bounce 3D STI
 D:/Bounce-3D-STI-/Bounce 3D STI
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ D:/Bounce-3D-STI-/Bounce 3D STI
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 152.98 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 158.49 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.11f1 (0a5ca18544bf)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Resources/UnitySubsystems
@@ -63,87 +63,141 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56244
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.021583 seconds.
+Registered in 0.018581 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 180.46 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 134.13 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.427 seconds
+- Completed reload, in  1.013 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1428ms)
-		BeginReloadAssembly (148ms)
+	ReloadAssembly (1014ms)
+		BeginReloadAssembly (128ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (1048ms)
-			LoadAssemblies (140ms)
+		EndReloadAssembly (666ms)
+			LoadAssemblies (122ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (190ms)
+			SetupTypeCache (150ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (55ms)
-			SetupLoadedEditorAssemblies (672ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (393ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (15ms)
+				InitializePlatformSupportModulesInManaged (13ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (181ms)
-				BeforeProcessingInitializeOnLoad (3ms)
-				ProcessInitializeOnLoadAttributes (348ms)
-				ProcessInitializeOnLoadMethodAttributes (124ms)
+				RefreshPlugins (134ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (178ms)
+				ProcessInitializeOnLoadMethodAttributes (66ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.016474 seconds.
+Registered in 0.008181 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.32 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.02 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.459 seconds
+- Completed reload, in  1.652 seconds
 Domain Reload Profiling:
-	ReloadAssembly (2462ms)
-		BeginReloadAssembly (298ms)
+	ReloadAssembly (1653ms)
+		BeginReloadAssembly (178ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (10ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (1296ms)
+			LoadAssemblies (139ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (425ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (88ms)
+			SetupLoadedEditorAssemblies (597ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (373ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (20ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3939 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 40 unused Assets / (1.4 MB). Loaded Objects now: 4387.
+Memory consumption went from 146.9 MB to 145.5 MB.
+Total: 4.653900 ms (FindLiveObjects: 0.379000 ms CreateObjectMapping: 0.172700 ms MarkObjects: 3.707500 ms  DeleteObjects: 0.393500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.899 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1900ms)
+		BeginReloadAssembly (328ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (14ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (41ms)
-		EndReloadAssembly (1850ms)
-			LoadAssemblies (212ms)
+			CreateAndSetChildDomain (76ms)
+		EndReloadAssembly (1353ms)
+			LoadAssemblies (221ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (622ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (127ms)
-			SetupLoadedEditorAssemblies (831ms)
+			SetupTypeCache (458ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (85ms)
+			SetupLoadedEditorAssemblies (580ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
+				InitializePlatformSupportModulesInManaged (29ms)
 				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (232ms)
-				ProcessInitializeOnLoadAttributes (484ms)
-				ProcessInitializeOnLoadMethodAttributes (62ms)
-				AfterProcessingInitializeOnLoad (34ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (345ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (25ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (16ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
 Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 0.93 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.75 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3431 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 27 unused Assets / (113.4 KB). Loaded Objects now: 3888.
-Memory consumption went from 117.5 MB to 117.4 MB.
-Total: 7.465200 ms (FindLiveObjects: 0.327600 ms CreateObjectMapping: 0.149000 ms MarkObjects: 6.732600 ms  DeleteObjects: 0.253800 ms)
+Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (1.3 MB). Loaded Objects now: 4390.
+Memory consumption went from 142.0 MB to 140.7 MB.
+Total: 4.983100 ms (FindLiveObjects: 0.401800 ms CreateObjectMapping: 0.167000 ms MarkObjects: 3.980400 ms  DeleteObjects: 0.431600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -158,140 +212,46 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 17.250506 seconds.
+Registered in 0.008262 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.82 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 1.03 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in 37.862 seconds
+- Completed reload, in  1.714 seconds
 Domain Reload Profiling:
-	ReloadAssembly (38033ms)
-		BeginReloadAssembly (19462ms)
+	ReloadAssembly (1715ms)
+		BeginReloadAssembly (229ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (379ms)
+			DisableScriptedObjects (9ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (2810ms)
-		EndReloadAssembly (17952ms)
-			LoadAssemblies (23368ms)
-			RebuildTransferFunctionScriptingTraits (3ms)
-			SetupTypeCache (1528ms)
+			CreateAndSetChildDomain (52ms)
+		EndReloadAssembly (1294ms)
+			LoadAssemblies (163ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (450ms)
 			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (119ms)
-			SetupLoadedEditorAssemblies (2514ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (553ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (57ms)
-				SetLoadedEditorAssemblies (16ms)
-				RefreshPlugins (3ms)
-				BeforeProcessingInitializeOnLoad (288ms)
-				ProcessInitializeOnLoadAttributes (704ms)
-				ProcessInitializeOnLoadMethodAttributes (1423ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (322ms)
+				ProcessInitializeOnLoadMethodAttributes (56ms)
 				AfterProcessingInitializeOnLoad (23ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (58ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
 Platform modules already initialized, skipping
-Script is not up to date after domain reload: guid(442c24ca7e1a877449477a4154f887f8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PostProcessEffectRendererExtensions.cs") state(2)
-Script is not up to date after domain reload: guid(ac5668592895c1742a0c6e9d111f870b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/ProfileFactory.cs") state(2)
-Script is not up to date after domain reload: guid(d65e486e4de6e5448a8fbb43dc8756a0) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Grain.cs") state(2)
-Script is not up to date after domain reload: guid(c235f7d2e7a5d3847b50e73fccc74bab) path("Packages/com.unity.postprocessing/Tests/Editor/PostProcessEditorTests.cs") state(2)
-Script is not up to date after domain reload: guid(63007e9c3f71cad46a59f223a8b32d46) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MinAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(d82acb873f357d046901f9e9f888911a) path("Packages/com.unity.postprocessing/Tests/Runtime/PostProcessingRuntimeTests.cs") state(2)
-Script is not up to date after domain reload: guid(75be0b76c5da33a41a2e679cfb7f453c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessDebugEditor.cs") state(2)
-Script is not up to date after domain reload: guid(eff4db1c9252e5247b661dec568df962) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/GlobalSettings.cs") state(2)
-Script is not up to date after domain reload: guid(f79c8927d684af6499f512361e23bace) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ColorGradingEditor.cs") state(2)
-Script is not up to date after domain reload: guid(e034505fdac568a45af53ec1cdb0fbb3) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PropertySheetFactory.cs") state(2)
-Script is not up to date after domain reload: guid(bc5d8aaf03e613843a0ecaff18e0dfbd) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/ParameterOverride.cs") state(2)
-Script is not up to date after domain reload: guid(44788f6e7bbf9174181bfe4689e66131) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/TrackballAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(4da61023839a0604d834e6ffde67ad52) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/PropertySheet.cs") state(2)
-Script is not up to date after domain reload: guid(b7733f6a6fd11474e8fc598901f90fab) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessRenderContext.cs") state(2)
-Script is not up to date after domain reload: guid(28cff9aae95df994e98129a9b35627de) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/PostProcessAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(948f4100a11a5c24981795d21301da5c) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessLayer.cs") state(2)
-Script is not up to date after domain reload: guid(de3d46fc4bda066408aeba6fb8e44d6a) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/MotionBlurEditor.cs") state(2)
-Script is not up to date after domain reload: guid(f8e5f5614c0d72445b292f4b16ab660b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ChromaticAberrationEditor.cs") state(2)
-Script is not up to date after domain reload: guid(4d506bd5da20d0248bfa343c6693d655) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/CubeLutAssetFactory.cs") state(2)
-Script is not up to date after domain reload: guid(3051d2fb25301fa4a81e797109712feb) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/AutoExposureEditor.cs") state(2)
-Script is not up to date after domain reload: guid(6050e2d5de785ce4d931e4dbdbf2d755) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ChromaticAberration.cs") state(2)
-Script is not up to date after domain reload: guid(e4026acd2810a474b9be96bbeb80b959) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/ShaderIDs.cs") state(2)
-Script is not up to date after domain reload: guid(f48a0d4b798943a448e8d2e5d891133c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/SerializedParameterOverride.cs") state(2)
-Script is not up to date after domain reload: guid(5a7e5d36c781f1a469ea8f981b785506) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessEffectBaseEditor.cs") state(2)
-Script is not up to date after domain reload: guid(322fbe1dae0fe4a4e9645768b3944aae) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/LightMeterMonitor.cs") state(2)
-Script is not up to date after domain reload: guid(e81ec1796a6c9844f9ab3847494d7911) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessEffectEditor.cs") state(2)
-Script is not up to date after domain reload: guid(62e2b920ea5fcaa4982e7fc50bf690a8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Fog.cs") state(2)
-Script is not up to date after domain reload: guid(4b0cd5ddb61a56b4f86ea0fd0a102fe7) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/DefaultPostProcessEffectEditor.cs") state(2)
-Script is not up to date after domain reload: guid(b3f6f3f7c722b4544b97e3c75840aa33) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/AutoExposure.cs") state(2)
-Script is not up to date after domain reload: guid(47feae56b7bdcf4499b96c2aa3c6ce07) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/BloomEditor.cs") state(2)
-Script is not up to date after domain reload: guid(0f3902e2aa2609f47ab0c956e56ea0bf) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/VolumeFactory.cs") state(2)
-Script is not up to date after domain reload: guid(912e288507f1e724492c7c721fa1deb8) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/DisplayNameAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(c387aa7210e2f324b85febd7211d6c9f) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/XRSettings.cs") state(2)
-Script is not up to date after domain reload: guid(48a79b01ea5641d4aa6daa2e23605641) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Bloom.cs") state(2)
-Script is not up to date after domain reload: guid(09e002b759745fa499d539b9021af38e) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/EditorUtilities.cs") state(2)
-Script is not up to date after domain reload: guid(c3c112f1ddeedfe45839158cc4b148d4) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/ColorUtilities.cs") state(2)
-Script is not up to date after domain reload: guid(ce0f0631fee52da41884853337cab99d) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/CurveEditor.cs") state(2)
-Script is not up to date after domain reload: guid(79092fbfc2fc7394aa0754682e3089f7) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessBundle.cs") state(2)
-Script is not up to date after domain reload: guid(21c950a797aa518438786fc341790e14) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/DefineSetter.cs") state(2)
-Script is not up to date after domain reload: guid(d6ae47710b8593e41960a944bb29e6c3) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/Decorators.cs") state(2)
-Script is not up to date after domain reload: guid(c687cf9a3e8607a4b991e6d445a2f9bf) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/Spline.cs") state(2)
-Script is not up to date after domain reload: guid(2df5c9d441da8704c8eab449a2f79d85) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEffectSettings.cs") state(2)
-Script is not up to date after domain reload: guid(3ae5839b763bada47af0cca23c360452) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TargetPool.cs") state(2)
-Script is not up to date after domain reload: guid(5d05ae29f423ce241b6cddfe46280b4c) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/Monitor.cs") state(2)
-Script is not up to date after domain reload: guid(efd3e892ff9d0b94c94e039ad5619e5d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/FastApproximateAntialiasing.cs") state(2)
-Script is not up to date after domain reload: guid(d4351734f8a0aaa42a51a99db92e92e2) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/ResourceAssetFactory.cs") state(2)
-Script is not up to date after domain reload: guid(f59da4cf1b7dee244bc37fa6add23b00) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/MultiScaleVO.cs") state(2)
-Script is not up to date after domain reload: guid(75066207954ccc44aa9d134af49040de) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Dithering.cs") state(2)
-Script is not up to date after domain reload: guid(b94fcd11afffcb142908bfcb1e261fba) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/MotionBlur.cs") state(2)
-Script is not up to date after domain reload: guid(7a34fa72bd4185749832024e9c8010bf) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ScreenSpaceReflections.cs") state(2)
-Script is not up to date after domain reload: guid(4b42fa3a7c4baed49bb4f6a56dadc03f) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/MeshUtilities.cs") state(2)
-Script is not up to date after domain reload: guid(1d2cae9d8c54de04fab072666ddd1e57) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MinMaxAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(8b9a305e18de0c04dbd257a21cd47087) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessVolume.cs") state(2)
-Script is not up to date after domain reload: guid(9753335d6f48da542be1c720aa07bbf5) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Attributes/DecoratorAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(30f4b897495c7ad40b2d47143e02aaba) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessResources.cs") state(2)
-Script is not up to date after domain reload: guid(c1cb7e9e120078f43bce4f0b1be547a7) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/AmbientOcclusion.cs") state(2)
-Script is not up to date after domain reload: guid(a4b23776a3150a74ea5ad6271a3d8f15) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/LogHistogram.cs") state(2)
-Script is not up to date after domain reload: guid(a2ed510c13db63f4ea5749ef503a99b5) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/RuntimeUtilities.cs") state(2)
-Script is not up to date after domain reload: guid(2c89984c2a3e6cd4492c6f695f07bae6) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessLayerEditor.cs") state(2)
-Script is not up to date after domain reload: guid(70ea2ab329ffbac43a0a02daa61dbe6b) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Attributes/PostProcessEditorAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(e4732e1210a3d39459db8b431f866659) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEvent.cs") state(2)
-Script is not up to date after domain reload: guid(40b924e2dad56384a8df2a1e111bb675) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/Vignette.cs") state(2)
-Script is not up to date after domain reload: guid(556797029e73b2347956b6579e77e05b) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/DepthOfField.cs") state(2)
-Script is not up to date after domain reload: guid(4e487364a0cd33f4a9ef2ed93819d4d7) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessVolumeEditor.cs") state(2)
-Script is not up to date after domain reload: guid(7758395f983044344b2c8ea743e956c3) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/LensDistortionEditor.cs") state(2)
-Script is not up to date after domain reload: guid(c564cc69bd8582a48b2e0a2090d28361) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ScalableAO.cs") state(2)
-Script is not up to date after domain reload: guid(3e4b5d9a1abab984cbe0cbdb31fca939) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Tools/CubeLutAssetImporter.cs") state(2)
-Script is not up to date after domain reload: guid(599b4e72f6c212d40819cfde14826671) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/HableCurve.cs") state(2)
-Script is not up to date after domain reload: guid(6b2666165a17bbd4e851c1382898651e) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/AttributeDecorator.cs") state(2)
-Script is not up to date after domain reload: guid(1fcb2f1e4a7d9ba42bc5940a5611f302) path("Packages/com.unity.postprocessing/PostProcessing/Editor/PostProcessProfileEditor.cs") state(2)
-Script is not up to date after domain reload: guid(18ff20fea2d39cf428e31d3e75b4ae79) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessManager.cs") state(2)
-Script is not up to date after domain reload: guid(eb4c0b518e013c8418135b3bd8a91b6c) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/DepthOfFieldEditor.cs") state(2)
-Script is not up to date after domain reload: guid(3869d037332a74744a54736f00d62763) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/VignetteEditor.cs") state(2)
-Script is not up to date after domain reload: guid(d579562c49280d84cb532cd67d19da5d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/WaveformMonitor.cs") state(2)
-Script is not up to date after domain reload: guid(f85e8d04208ed5145a521dd27d174830) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TextureLerper.cs") state(2)
-Script is not up to date after domain reload: guid(d798d5719bf3b434eafb013385f872eb) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/ScreenSpaceReflectionsEditor.cs") state(2)
-Script is not up to date after domain reload: guid(cce62646e6d421c41b0aa1c300fcd0fe) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/HistogramMonitor.cs") state(2)
-Script is not up to date after domain reload: guid(9f9fffe306f3969418c31ee836b6ffee) path("Packages/com.unity.postprocessing/PostProcessing/Editor/EffectListEditor.cs") state(2)
-Script is not up to date after domain reload: guid(c884467f149574e44b21c869b7fc3401) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Utils/Styling.cs") state(2)
-Script is not up to date after domain reload: guid(314a03e1d67d9fb4b85926a765017e02) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessDebugLayer.cs") state(2)
-Script is not up to date after domain reload: guid(26ed99f46b86df8449003e6ec0f65144) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Decorators/TrackballDecorator.cs") state(2)
-Script is not up to date after domain reload: guid(5a7fc26078c70a6469392d9775f433be) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/TemporalAntialiasing.cs") state(2)
-Script is not up to date after domain reload: guid(8e6292b2c06870d4495f009f912b9600) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessProfile.cs") state(2)
-Script is not up to date after domain reload: guid(c520d478f3d2445429bd7ac9c92b03a3) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessDebug.cs") state(2)
-Script is not up to date after domain reload: guid(8c72b20f77adb59439f8eed4f25a950a) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Attributes/MaxAttribute.cs") state(2)
-Script is not up to date after domain reload: guid(67909952e72978b4ea41880509c936ff) path("Packages/com.unity.postprocessing/PostProcessing/Editor/Effects/AmbientOcclusionEditor.cs") state(2)
-Script is not up to date after domain reload: guid(279b45d82a92b4d4fa0b30d03486fa68) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Monitors/VectorscopeMonitor.cs") state(2)
-Script is not up to date after domain reload: guid(5cfe6169b379ff84eb9796502a1a144d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/PostProcessEffectRenderer.cs") state(2)
-Script is not up to date after domain reload: guid(adb84e30e02715445aeb9959894e3b4d) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/ColorGrading.cs") state(2)
-Script is not up to date after domain reload: guid(f8baf5b99881c054d90afcd1dffd11eb) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/TextureFormatUtilities.cs") state(2)
-Script is not up to date after domain reload: guid(9b77c5407dc277943b591ade9e6b18c5) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/LensDistortion.cs") state(2)
-Script is not up to date after domain reload: guid(f3b0ecb61e2f1e54ebd4572178bfd8b1) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Effects/SubpixelMorphologicalAntialiasing.cs") state(2)
-Script is not up to date after domain reload: guid(616483d5bdbf13c43ae1b005134b8c11) path("Packages/com.unity.postprocessing/PostProcessing/Runtime/Utils/HaltonSeq.cs") state(2)
-Script is not up to date after domain reload: guid(69a4fc27499557744827c787d71fdf08) path("Packages/com.unity.postprocessing/PostProcessing/Editor/BaseEditor.cs") state(2)
-Refreshing native plugins compatible for Editor in 2.82 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 2.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3802 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 40 unused Assets / (2.0 MB). Loaded Objects now: 4248.
-Memory consumption went from 134.4 MB to 132.4 MB.
-Total: 63.819200 ms (FindLiveObjects: 0.410800 ms CreateObjectMapping: 0.150700 ms MarkObjects: 58.411000 ms  DeleteObjects: 4.844200 ms)
+Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (1.4 MB). Loaded Objects now: 4393.
+Memory consumption went from 142.1 MB to 140.7 MB.
+Total: 4.307000 ms (FindLiveObjects: 0.397800 ms CreateObjectMapping: 0.163400 ms MarkObjects: 3.363800 ms  DeleteObjects: 0.380000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -306,4 +266,108 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008988 seconds.
+Registered in 0.025640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.943 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1944ms)
+		BeginReloadAssembly (332ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (75ms)
+		EndReloadAssembly (1423ms)
+			LoadAssemblies (271ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (471ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (624ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (24ms)
+				SetLoadedEditorAssemblies (23ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (127ms)
+				ProcessInitializeOnLoadAttributes (361ms)
+				ProcessInitializeOnLoadMethodAttributes (59ms)
+				AfterProcessingInitializeOnLoad (27ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (1.4 MB). Loaded Objects now: 4396.
+Memory consumption went from 142.1 MB to 140.7 MB.
+Total: 4.410900 ms (FindLiveObjects: 0.349500 ms CreateObjectMapping: 0.150200 ms MarkObjects: 3.506700 ms  DeleteObjects: 0.403400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.846 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1847ms)
+		BeginReloadAssembly (278ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (9ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (1403ms)
+			LoadAssemblies (235ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (523ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (559ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (23ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (123ms)
+				ProcessInitializeOnLoadAttributes (339ms)
+				ProcessInitializeOnLoadMethodAttributes (48ms)
+				AfterProcessingInitializeOnLoad (22ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (14ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 33 unused Assets / (1.4 MB). Loaded Objects now: 4399.
+Memory consumption went from 142.1 MB to 140.7 MB.
+Total: 6.021200 ms (FindLiveObjects: 0.649900 ms CreateObjectMapping: 0.205700 ms MarkObjects: 4.707800 ms  DeleteObjects: 0.455400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
