@@ -33,11 +33,13 @@ public class TPController : MonoBehaviour
     float verticalInput;
 
     Vector3 moveDirection;
+    public static Vector3 spawnPoint;
 
     Rigidbody rb;
 
     private void Start()
     {
+        spawnPoint = gameObject.transform.position;
         rb = GetComponent<Rigidbody>();
         rb.freezeRotation = true;
 

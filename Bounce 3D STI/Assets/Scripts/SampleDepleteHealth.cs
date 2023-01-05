@@ -8,7 +8,8 @@ public class SampleDepleteHealth : MonoBehaviour
     {
         if (other.gameObject.tag.Equals("Ball"))
         {
-            SampleTextUpdate.number -= 0.5f;
+            other.gameObject.transform.position = TPController.spawnPoint;
+            SampleTextUpdate.number -= 1f;
         }
     }
 }
