@@ -6,12 +6,6 @@ public class CheckPoint : MonoBehaviour
 {
     public GameObject checkpointPos;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerEnter(Collider player)
     {
         if (player.gameObject.tag.Equals("Ball"))
