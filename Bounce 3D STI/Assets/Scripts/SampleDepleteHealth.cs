@@ -8,7 +8,7 @@ public class SampleDepleteHealth : MonoBehaviour
     public GameObject gameOverScreen;
     IEnumerator OnTriggerEnter(Collider player)
     {
-        if (player.gameObject.tag.Equals("Ball"))
+        if (player.gameObject.CompareTag("Ball"))
         {
             SampleTextUpdate.number -= 1f;
             if (SampleTextUpdate.number > 0)
