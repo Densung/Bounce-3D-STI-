@@ -1,7 +1,11 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_FilePath: C:/Users/ACER/Desktop/Bounce-3D-STI-/Bounce 3D STI/Packages/manifest.json
+=======
+    m_FilePath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages/manifest.json
+>>>>>>> Stashed changes
 =======
     m_FilePath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages/manifest.json
 >>>>>>> Stashed changes
@@ -9,6 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       ticks: 638091972389921885
     m_Hash: 3459760929
@@ -20,12 +25,22 @@ m_ProjectFiles:
   m_LockFileStatus:
     m_FilePath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages/packages-lock.json
 >>>>>>> Stashed changes
+=======
+      ticks: 638092790591733801
+    m_Hash: 3459760929
+  m_LockFileStatus:
+    m_FilePath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages/packages-lock.json
+>>>>>>> Stashed changes
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       ticks: 638091972389927159
+=======
+      ticks: 638092790591743784
+>>>>>>> Stashed changes
 =======
       ticks: 638092790591743784
 >>>>>>> Stashed changes
@@ -35,7 +50,11 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 m_ProjectPath: C:/Users/ACER/Desktop/Bounce-3D-STI-/Bounce 3D STI/Packages
+=======
+m_ProjectPath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages
+>>>>>>> Stashed changes
 =======
 m_ProjectPath: C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Packages
 >>>>>>> Stashed changes
@@ -47,7 +66,11 @@ m_ResolvedPackages:
   version: 2.8.9
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.cinemachine@2.8.9
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.cinemachine@2.8.9
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.cinemachine@2.8.9
 >>>>>>> Stashed changes
@@ -203,7 +226,11 @@ m_ResolvedPackages:
   version: 1.17.2
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.collab-proxy@1.17.2
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.collab-proxy@1.17.2
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.collab-proxy@1.17.2
 >>>>>>> Stashed changes
@@ -353,7 +380,11 @@ m_ResolvedPackages:
   version: 1.0.1
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.feature.development@1.0.1
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.feature.development@1.0.1
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.feature.development@1.0.1
 >>>>>>> Stashed changes
@@ -443,7 +474,11 @@ m_ResolvedPackages:
   version: 3.0.15
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.rider@3.0.15
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.rider@3.0.15
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.rider@3.0.15
 >>>>>>> Stashed changes
@@ -536,7 +571,11 @@ m_ResolvedPackages:
   version: 2.0.16
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
 >>>>>>> Stashed changes
@@ -619,7 +658,11 @@ m_ResolvedPackages:
   version: 1.2.5
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.vscode@1.2.5
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.vscode@1.2.5
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ide.vscode@1.2.5
 >>>>>>> Stashed changes
@@ -684,7 +727,11 @@ m_ResolvedPackages:
   version: 3.2.2
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.postprocessing@3.2.2
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.postprocessing@3.2.2
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.postprocessing@3.2.2
 >>>>>>> Stashed changes
@@ -776,7 +823,11 @@ m_ResolvedPackages:
   version: 5.0.6
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.probuilder@5.0.6
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.probuilder@5.0.6
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.probuilder@5.0.6
 >>>>>>> Stashed changes
@@ -909,7 +960,11 @@ m_ResolvedPackages:
   version: 1.1.33
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.test-framework@1.1.33
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.test-framework@1.1.33
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.test-framework@1.1.33
 >>>>>>> Stashed changes
@@ -1021,7 +1076,11 @@ m_ResolvedPackages:
   version: 3.0.6
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.textmeshpro@3.0.6
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.textmeshpro@3.0.6
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.textmeshpro@3.0.6
 >>>>>>> Stashed changes
@@ -1193,7 +1252,11 @@ m_ResolvedPackages:
   version: 1.7.1
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.timeline@1.7.1
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.timeline@1.7.1
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.timeline@1.7.1
 >>>>>>> Stashed changes
@@ -1341,7 +1404,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ugui@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ugui@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ugui@1.0.0
 >>>>>>> Stashed changes
@@ -1407,7 +1474,11 @@ m_ResolvedPackages:
   version: 1.7.8
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.visualscripting@1.7.8
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.visualscripting@1.7.8
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.visualscripting@1.7.8
 >>>>>>> Stashed changes
@@ -1499,7 +1570,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ai@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ai@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ai@1.0.0
 >>>>>>> Stashed changes
@@ -1551,7 +1626,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.androidjni@1.0.0
 >>>>>>> Stashed changes
@@ -1602,7 +1681,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.animation@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.animation@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.animation@1.0.0
 >>>>>>> Stashed changes
@@ -1654,7 +1737,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
 >>>>>>> Stashed changes
@@ -1706,7 +1793,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.audio@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.audio@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.audio@1.0.0
 >>>>>>> Stashed changes
@@ -1758,7 +1849,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.cloth@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.cloth@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.cloth@1.0.0
 >>>>>>> Stashed changes
@@ -1814,7 +1909,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.director@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.director@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.director@1.0.0
 >>>>>>> Stashed changes
@@ -1874,7 +1973,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
 >>>>>>> Stashed changes
@@ -1927,7 +2030,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imgui@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imgui@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.imgui@1.0.0
 >>>>>>> Stashed changes
@@ -1979,7 +2086,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
 >>>>>>> Stashed changes
@@ -2031,7 +2142,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
 >>>>>>> Stashed changes
@@ -2083,7 +2198,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics@1.0.0
 >>>>>>> Stashed changes
@@ -2135,7 +2254,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.physics2d@1.0.0
 >>>>>>> Stashed changes
@@ -2187,7 +2310,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.screencapture@1.0.0
 >>>>>>> Stashed changes
@@ -2243,7 +2370,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrain@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrain@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrain@1.0.0
 >>>>>>> Stashed changes
@@ -2295,7 +2426,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
 >>>>>>> Stashed changes
@@ -2355,7 +2490,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.tilemap@1.0.0
 >>>>>>> Stashed changes
@@ -2410,7 +2549,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ui@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ui@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.ui@1.0.0
 >>>>>>> Stashed changes
@@ -2462,7 +2605,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielements@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielements@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielements@1.0.0
 >>>>>>> Stashed changes
@@ -2530,7 +2677,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.umbra@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.umbra@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.umbra@1.0.0
 >>>>>>> Stashed changes
@@ -2582,7 +2733,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
 >>>>>>> Stashed changes
@@ -2642,7 +2797,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
 >>>>>>> Stashed changes
@@ -2694,7 +2853,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
 >>>>>>> Stashed changes
@@ -2754,7 +2917,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
 >>>>>>> Stashed changes
@@ -2814,7 +2981,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
 >>>>>>> Stashed changes
@@ -2874,7 +3045,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
 >>>>>>> Stashed changes
@@ -2950,7 +3125,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vehicles@1.0.0
 >>>>>>> Stashed changes
@@ -3006,7 +3185,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.video@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.video@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.video@1.0.0
 >>>>>>> Stashed changes
@@ -3070,7 +3253,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vr@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vr@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.vr@1.0.0
 >>>>>>> Stashed changes
@@ -3136,7 +3323,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.wind@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.wind@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.wind@1.0.0
 >>>>>>> Stashed changes
@@ -3188,7 +3379,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.xr@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.xr@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.xr@1.0.0
 >>>>>>> Stashed changes
@@ -3252,7 +3447,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.subsystems@1.0.0
 >>>>>>> Stashed changes
@@ -3308,7 +3507,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
 >>>>>>> Stashed changes
@@ -3371,7 +3574,11 @@ m_ResolvedPackages:
   version: 1.0.6
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ext.nunit@1.0.6
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ext.nunit@1.0.6
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.ext.nunit@1.0.6
 >>>>>>> Stashed changes
@@ -3435,7 +3642,11 @@ m_ResolvedPackages:
   version: 2.0.1
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.settings-manager@2.0.1
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.settings-manager@2.0.1
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.settings-manager@2.0.1
 >>>>>>> Stashed changes
@@ -3494,7 +3705,11 @@ m_ResolvedPackages:
   version: 1.0.0
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.editorcoroutines@1.0.0
 >>>>>>> Stashed changes
@@ -3556,7 +3771,11 @@ m_ResolvedPackages:
   version: 1.1.1
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
 >>>>>>> Stashed changes
@@ -3623,7 +3842,11 @@ m_ResolvedPackages:
   version: 1.1.1
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.testtools.codecoverage@1.1.1
 >>>>>>> Stashed changes
@@ -3732,7 +3955,11 @@ m_ResolvedPackages:
   version: 1.4.2
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.services.core@1.4.2
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.services.core@1.4.2
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.services.core@1.4.2
 >>>>>>> Stashed changes
@@ -3820,7 +4047,11 @@ m_ResolvedPackages:
   version: 3.0.2
   source: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   resolvedPath: C:\Users\ACER\Desktop\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+=======
+  resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
+>>>>>>> Stashed changes
 =======
   resolvedPath: C:\Users\Mac-Mac\Documents\GitHub\Bounce-3D-STI-\Bounce 3D STI\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
 >>>>>>> Stashed changes

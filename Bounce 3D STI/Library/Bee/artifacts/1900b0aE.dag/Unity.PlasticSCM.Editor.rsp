@@ -122,6 +122,7 @@
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"C:/Program Files/Unity/Hub/Editor/2022.1.18f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.1.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.1.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -339,6 +340,8 @@
 -r:"C:/Users/ACER/Desktop/Bounce-3D-STI-/Bounce 3D STI/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll"
 -r:"C:/Users/ACER/Desktop/Bounce-3D-STI-/Bounce 3D STI/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 =======
+=======
+>>>>>>> Stashed changes
 -r:"C:/Program Files/Unity 2022.1.18f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity 2022.1.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity 2022.1.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -552,6 +555,9 @@
 -r:"C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Library/PackageCache/com.unity.collab-proxy@1.17.2/Lib/Editor/PlasticSCM/unityplastic.dll"
 -r:"C:/Users/Mac-Mac/Documents/GitHub/Bounce-3D-STI-/Bounce 3D STI/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
