@@ -372,6 +372,7 @@
 "Assets/Scripts/Points.cs"
 "Assets/Scripts/SampleTextUpdate.cs"
 "Assets/Scripts/SampleTrigger.cs"
+"Assets/Scripts/trapdoor.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"
